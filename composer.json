@@ -20,7 +20,7 @@
     },
     "require": {
         "php": ">=5.5.0",
-        "phpFastCache/phpFastCache": "5.*"
+        "phpfastcache/phpfastcache": "5.*"
     },
     "require-dev": {
         "falkm/hubert": "1.*"
